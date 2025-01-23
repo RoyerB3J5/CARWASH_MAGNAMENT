@@ -1,6 +1,6 @@
 # Administrador de Carwash
 
-![Carwash Management](https://via.placeholder.com/800x200.png?text=Carwash+Management+System)
+![Carwash Management]
 
 Un sistema interactivo para la gestión eficiente de servicios de carwash. Este administrador facilita el control de los vehículos que ingresan, así como la organización de clientes y servicios ofrecidos.
 
